@@ -214,4 +214,10 @@ Add to `~/Library/Application Support/Claude/claude_desktop_config.json`:
 
 ---
 
-*Built with ❤️ for the Casper Network Hackathon*
+## 🌐 Live Demo
+
+https://fanoracle.vercel.app
+
+---
+
+*Built with ❤️ for the Casper Network Hackathon**
