@@ -1,4 +1,9 @@
-# FanOracle: Comic Book Edition 🦸‍♂️⛓️
+<div align="center">
+  <img width="100%" alt="FanOracle Cinematic CGC Slab Banner" src="https://github.com/user-attachments/assets/bc2da3b1-9282-4a2c-b359-dcb207c81657" />
+</div>
+
+
+# FanOracle: Comic Book Edition 
 
 > AI-powered comic book authentication, grading, and valuation — secured on the Casper blockchain.
 
