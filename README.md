@@ -5,7 +5,7 @@
 Built for the Casper Network Hackathon | MCP + Odra/Rust Smart Contract
 
 ---
-
+Contract repo: https://github.com/ffffffffhugfadil/fanoracle-comic
 ## 🏆 What is FanOracle?
 
 FanOracle is a Model Context Protocol (MCP) server that brings AI intelligence to comic book collecting. Upload a photo of any comic — raw or CGC-slabbed — and FanOracle will:
